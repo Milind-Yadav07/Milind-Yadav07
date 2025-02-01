@@ -1,6 +1,6 @@
 <img align="center" alt="profession" width="900" height="200" src="https://quickops.pt/wp-content/uploads/2023/04/fullstack_developer.png">
 <h1 align="center">Hi 👋, I'm Milind Yadav</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate full-Stack developer from India</h3>
 <br>
 <img  align="right" alt="coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTCK4life1jApvNE36wkiOZhwWqyUsARhELvA&s">
 
