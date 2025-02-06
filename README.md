@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **React Native**
 
-- 💬 Ask me about **MERN**
+- 💬 Ask me about **MERN Stack**
 
 - 📫 How to reach me **milindcs07@gmail.com**
 
