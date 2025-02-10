@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **Virtual Assistant**
 
-- 🌱 I’m currently learning ****
+- 🌱 I’m currently learning ** **
 
 - 💬 Ask me about **MERN Stack**
 
