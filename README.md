@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **Virtual Assistant**
 
-- 🌱 I’m currently learning **React Native bijbkvutukjuygfdhgxgvsdfh**
+- 🌱 I’m currently learning **React Native bijbkvutukjuygfdhgxgviuhgsdfh**
 
 - 💬 Ask me about **MERN Stack**
 
