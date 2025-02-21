@@ -6,9 +6,9 @@
 
 - 🔭 I’m currently working on **Virtual Assistant**
 
-- 🌱 I’m currently learning **React Native**
+- 🌱 I’m currently learning **C++**
 
-- 💬 Ask me about **MERN Stack**
+- 💬 Ask me about **Frontend Development**
 
 - 📫 How to reach me **milindcs07@gmail.com**
 
