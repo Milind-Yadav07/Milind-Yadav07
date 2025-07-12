@@ -21,10 +21,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://linkedin.com/in/milind yadav" target="_blank" rel="noreferrer" style="margin-right: 10px;">
+  <a href="linkedin.com/in/milind-yadav-a89157326" target="_blank" rel="noreferrer" style="margin-right: 10px;">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&shadow=1" alt="LinkedIn" />
   </a>
-  <a href="https://instagram.com/milind_yadav_07" target="_blank" rel="noreferrer" style="margin-right: 10px;">
+  <a href="https://instagram.com/milind_yadav07" target="_blank" rel="noreferrer" style="margin-right: 10px;">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&shadow=1" alt="Instagram" />
   </a>
   <a href="https://milindpersonal-3dportfolio.netlify.app/" target="_blank" rel="noreferrer" style="margin-right: 10px;">
