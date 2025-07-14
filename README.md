@@ -20,7 +20,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="linkedin.com/in/milind-yadav-a89157326" target="_blank" rel="noreferrer" style="margin-right: 10px;">
+  <a href="https://www.linkedin.com/in/milind-yadav-a89157326" target="_blank" rel="noreferrer" style="margin-right: 10px;">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&shadow=1" alt="LinkedIn" />
   </a>
   <a href="https://www.instagram.com/milind_yadav07/" target="_blank" rel="noreferrer" style="margin-right: 10px;">
