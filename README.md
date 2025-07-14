@@ -10,7 +10,6 @@
 
 <br>
 
-<!-- <img align="right" alt="man doing web coding animation" width="400" src="" /> -->
 <img align="right" alt="Coder GIF" height=300 width=400 src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" />
 
 - 🌱 I’m currently learning <b>Backend</b>
@@ -21,10 +20,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="" target="_blank" rel="noreferrer" style="margin-right: 10px;">
+  <a href="linkedin.com/in/milind-yadav-a89157326" target="_blank" rel="noreferrer" style="margin-right: 10px;">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&shadow=1" alt="LinkedIn" />
   </a>
-  <a href="" target="_blank" rel="noreferrer" style="margin-right: 10px;">
+  <a href="https://www.instagram.com/milind_yadav07/" target="_blank" rel="noreferrer" style="margin-right: 10px;">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&shadow=1" alt="Instagram" />
   </a>
   <a href="https://milindpersonal-3dportfolio.netlify.app/" target="_blank" rel="noreferrer" style="margin-right: 10px;">
