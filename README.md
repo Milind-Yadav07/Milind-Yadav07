@@ -14,7 +14,7 @@
 
 - 💫 I’m currently learning <b>Backend</b>
 
-- 💬 Ask me about <b>Frontend Development</b>
+- ✨ Ask me about <b>Frontend Development</b>
 
 - 📫 How to reach me <b>milindcs07@gmail.com</b>
 
