@@ -16,7 +16,7 @@
 
 - ✨ Ask me about <b>Frontend Development</b>
 
-- 💫 How to reach me <b>milindcs07@gmail.com</b>
+- ✨ How to reach me <b>milindcs07@gmail.com</b>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
