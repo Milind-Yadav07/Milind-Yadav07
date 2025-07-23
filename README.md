@@ -12,7 +12,7 @@
 
 <img align="right" alt="Coder GIF" height=300 width=400 src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" />
 
-- 💫 I’m currently learning <b>Backend</b>
+- ✨ I’m currently learning <b>Backend</b>
 
 - ✨ Ask me about <b>Frontend Development</b>
 
