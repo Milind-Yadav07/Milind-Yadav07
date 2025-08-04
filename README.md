@@ -12,11 +12,11 @@
 
 <img align="right" alt="Coder GIF" height=300 width=400 src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" />
 
--  I’m currently learning <b>Backend</b>
+- 💫 I’m currently learning <b>Backend</b>
 
 -  Ask me about <b>Frontend Development</b>
 
--  How to reach me <b>milindcs07@gmail.com</b>
+- 💫 How to reach me <b>milindcs07@gmail.com</b>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
