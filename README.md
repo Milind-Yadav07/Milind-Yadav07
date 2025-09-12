@@ -27,7 +27,7 @@
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&shadow=1" alt="Instagram" />
   </a>
   <a href="https://milindpersonal-3dportfolio.netlify.app/" target="_blank" rel="noreferrer" style="margin-right: 10px;">
-    <img src="https://img.shields.io/badge/MILIND-808080?style=for-the-badge&logoColor=white&shadow=1&fontSize=36" alt="MILIND" />
+    <img src="https://img.shields.io/badge/Portfolio-808080?style=for-the-badge&logoColor=white&shadow=1&fontSize=36" alt="Portfolio" />
   </a>
 
 <br>
