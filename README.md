@@ -76,21 +76,11 @@
     <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white&shadow=1" alt="Node.js" />
     <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white&shadow=1" alt="Postman" />
     <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black&shadow=1" alt="React" />
-  <a href="https://redux.js.org" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white&shadow=1" alt="Redux" />
-  </a>
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white&shadow=1" alt="Tailwind CSS" />
-  </a>
-  <a href="https://greensock.com/gsap/" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=white&shadow=1" alt="GSAP" />
-  </a>
-  <a href="https://www.framer.com/motion/" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white&shadow=1" alt="Framer Motion" />
-  </a>
-  <a href="https://sass-lang.com/" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/SASS-CC6699?style=for-the-badge&logo=sass&logoColor=white&shadow=1" alt="SASS" />
-  </a>
 </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=milind-yadav07&show_icons=true&locale=en&layout=compact" alt="milind-yadav07" /></p>
