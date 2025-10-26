@@ -66,21 +66,11 @@
 
 <h3 align="left">Technology:</h3>
 <p align="left">
-  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white&shadow=1" alt="Bootstrap" />
-  </a>
-  <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white&shadow=1" alt="Flask" />
-  </a>
-  <a href="https://expressjs.com" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white&shadow=1" alt="Express" />
-  </a>
-  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black&shadow=1" alt="Firebase" />
-  </a>
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white&shadow=1" alt="MongoDB" />
-  </a>
   <a href="https://www.mongoose.com/" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/Mongoose-476ABC?style=for-the-badge&logo=mongoose&logoColor=white&shadow=1" alt="Mongoose" />
   </a>
