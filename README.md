@@ -72,7 +72,7 @@
 <img width="396" src="https://github-readme-stats.vercel.app/api?username=milind-yadav07&show_icons=true&locale=en" alt="milind-yadav07" />
 <img width="396" src="https://github-readme-stats.vercel.app/api/top-langs?username=milind-yadav07&show_icons=true&locale=en&layout=compact" alt="milind-yadav07" /> -->
 
-<p> <img src="https://github-readme-streak-stats.herokuapp.com/?user=milind-yadav07&" alt="milind-yadav07" /> </p>
-<p> <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=milind-yadav07&show_icons=true&locale=en&layout=compact" alt="milind-yadav07" /> </p>
-<p> <img src="https://github-readme-stats.vercel.app/api?username=milind-yadav07&show_icons=true&locale=en" alt="milind-yadav07" /> </p>
+<p align="center"> <img width="425" src="https://github-readme-streak-stats.herokuapp.com/?user=milind-yadav07&" alt="milind-yadav07" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=milind-yadav07&show_icons=true&locale=en&layout=compact" alt="milind-yadav07" />
+<img width="425" src="https://github-readme-stats.vercel.app/api?username=milind-yadav07&show_icons=true&locale=en" alt="milind-yadav07" /> </p>
 
