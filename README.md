@@ -36,8 +36,8 @@
 <br>
 
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
+<h3 align="center">Languages and Tools:</h3>
+<p align="center">
     <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white&shadow=1" alt="HTML5" />
     <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white&shadow=1" alt="CSS3" />
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&shadow=1" alt="JavaScript" />
@@ -48,8 +48,8 @@
     <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&shadow=1" alt="Python" />
 </p>
 
-<h3 align="left">Technology:</h3>
-<p align="left">
+<h3 align="center">Technology:</h3>
+<p align="center">
     <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white&shadow=1" alt="Bootstrap" />
     <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white&shadow=1" alt="Flask" />
     <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white&shadow=1" alt="Express" />
@@ -66,6 +66,9 @@
     <img src="https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white&shadow=1" alt="Framer Motion" />
     <img src="https://img.shields.io/badge/SASS-CC6699?style=for-the-badge&logo=sass&logoColor=white&shadow=1" alt="SASS" />
 </p>
+
+<br>
+<br>
 
 
 <!-- <img width="396" src="https://github-readme-streak-stats.herokuapp.com/?user=milind-yadav07&" alt="milind-yadav07" />
