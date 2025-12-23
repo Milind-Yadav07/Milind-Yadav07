@@ -12,6 +12,9 @@
 
 <img align="right" alt="Coder GIF" height=300 width=400 src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" />
 
+<br>
+<br>
+
 - 💫 I’m currently learning <b>Backend</b>
 
 - ✨ Ask me about <b>Frontend Development</b>
@@ -47,6 +50,8 @@
     <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white&shadow=1" alt="Netlify" />
     <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&shadow=1" alt="Python" />
 </p>
+
+<br>
 
 <h3 align="center">Technology:</h3>
 <p align="center">
