@@ -2,10 +2,11 @@
 <h1 align="center" style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; text-shadow: 2px 2px 4px #000000;">
   Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" alt="waving hand" />, I'm Milind Yadav
 </h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate full stack developer from India</h3>
 
 <p align="center" style="font-size: 18px; max-width: 700px; margin: auto; color: #555;">
-  I specialize in creating beautiful and performant web applications with a focus on frontend development. Currently expanding my skills into backend technologies to become a full-stack developer.
+  PROFILE SUMMARY 
+I'm a Full Stack Developer with a passion for high-performance web architecture and GenAI. I specialize in crafting full stack applications using React, Next.js, and Node.js, while integrating AI to enhance user experiences. 
 </p>
 
 <br>
