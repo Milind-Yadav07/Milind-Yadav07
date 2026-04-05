@@ -15,7 +15,7 @@ I'm a Full Stack Developer with a passion for high-performance web architecture 
 <br>
 <br>
 
-- 💫 I’m currently learning <b>Backend</b>
+- 💫 I’m currently learning <b>Generative AI</b>
 
 - ✨ Ask me about <b>Frontend Development</b>
 
