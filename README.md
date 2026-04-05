@@ -1,4 +1,4 @@
-<img align="center" alt="profession" width="900" height="200" src="assets/profile first image.png">
+<img align="center" alt="profession" width="900" height="200" src="assets/github-home.png">
 <h1 align="center" style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; text-shadow: 2px 2px 4px #000000;">
   Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" alt="waving hand" />, I'm Milind Yadav
 </h1>
