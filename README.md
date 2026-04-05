@@ -4,8 +4,7 @@
 </h1>
 <h3 align="center">A passionate full stack developer from India</h3>
 
-<p align="center" style="font-size: 18px; max-width: 700px; margin: auto; color: #555;">
-  PROFILE SUMMARY 
+<p align="center" style="font-size: 18px; max-width: 700px; margin: auto; color: #555;"> 
 I'm a Full Stack Developer with a passion for high-performance web architecture and GenAI. I specialize in crafting full stack applications using React, Next.js, and Node.js, while integrating AI to enhance user experiences. 
 </p>
 
